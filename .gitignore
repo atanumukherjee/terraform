@@ -3,3 +3,15 @@
 
 # Ada Library Information
 *.ali
+*.DS_Store
+*.tfstate
+*.tfstate.backup
+*.hcl
+*.tfvars
+*.txt
+terraform-demo/provisioner-demo2/mykey*
+terraform-demo/demo1/.terraform/*
+terraform-demo/datasources-demo5/.terraform/*
+terraform-demo/output-demo3/.terraform/*
+terraform-demo/provisioner-demo2/.terraform/*
+terraform-demo/remotestate-demo4/.terraform/*
