@@ -15,3 +15,6 @@ terraform-demo/datasources-demo5/.terraform/*
 terraform-demo/output-demo3/.terraform/*
 terraform-demo/provisioner-demo2/.terraform/*
 terraform-demo/remotestate-demo4/.terraform/*
+terraform-demo/ebs-demo9/.terraform/*
+terraform-demo/vpcEc2-demo8/.terraform/*
+terraform-demo/vpc_nat-demo7/.terraform/*
